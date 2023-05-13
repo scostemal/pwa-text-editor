@@ -11,5 +11,5 @@ A progressive web application that can be downloaded and run as a native applica
     * Deploy to Heroku
 
 ## Deployment
-* Visit the deployed application on Heroku here: [link](https://.herokuapp.com](https://pure-temple-79689.herokuapp.com/)
-* Visit the GitHub Repo here: [link](https://github.com/scostemal/](https://github.com/scostemal/pwa-text-editor) 
+* Visit the deployed application on Heroku here: [link](https://pure-temple-79689.herokuapp.com/)
+* Visit the GitHub Repo here: [link](https://github.com/scostemal/pwa-text-editor) 
